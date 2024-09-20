@@ -1,6 +1,7 @@
 # Realcodes
 
 Realcodes is a blockchain company based in the USA, dedicated to developing innovative solutions and tools for the blockchain ecosystem.
+<img src="https://raw.githubusercontent.com/RealcodesAI/.github/main/https_ideogram_ai_api_images_ephemeral_ItH0Ah_cQMmBaI2oNgdxxQ_png_exp_1726905491_sig_b524b13ee32e320da61d420a45810415d605a641e390f300141ca68ff7ed064a.jpg">
 
 ## Our Mission
 
